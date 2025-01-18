@@ -1,4 +1,4 @@
-# Save the provided HTML code into a file named "index.html".
+
 
 file_path = "/mnt/data/index.html"
 
